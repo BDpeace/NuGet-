@@ -1,0 +1,9 @@
+项目 XXX 的 NuGet 程序包还原失败:找不到“xxx”版本的程序包“xxx”
+
+修改NuGet包管理器的源为 http://www.nuget.org/api/v2/ 。重试后成功
+
+其他源地址：
+https://nuget.cnblogs.com/v3/index.json
+https://api.nuget.org/v3/index.json
+https://www.nuget.org/api/v2/
+https://nuget.org/api/v2/
